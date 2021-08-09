@@ -1,4 +1,4 @@
-// Solution 2:
+// Solution 1:
 // Each row from top to bottom are 3, 5, 7
 const S1Data = [
   [1,2,3],
